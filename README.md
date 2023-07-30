@@ -1,4 +1,3 @@
-
 Hi there 👋, I'm Klaudia 
 
 ## 🙍 About me:
@@ -43,7 +42,6 @@ I am interested not only in data analysis, but also in machine learning and stat
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://github.com/KlaudiaL27/)
   
 
-  
 ---
 
 <a href="https://github.com/KlaudiaL27/github-readme-stats">
@@ -54,3 +52,4 @@ I am interested not only in data analysis, but also in machine learning and stat
 </a>
 
 ---
+![](https://visitor-badge.lithub.cc/badge?page_id=github.com/KlaudiaL27)
